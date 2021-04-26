@@ -1,7 +1,9 @@
 # video-landing-page
-Vanilla Javascript tutorial project #9 presented by John Smilga
+Vanilla Javascript tutorial project #9 presented by John Smilga.
 
-
-<video>
+<!--
+ <video>
     <source src="#">
-</video>
+</video> 
+-->
+-video attributes: controls, muted, autoplay, loop;
